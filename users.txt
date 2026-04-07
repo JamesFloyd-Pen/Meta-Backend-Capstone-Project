@@ -1,0 +1,4 @@
+Superuser
+name: Teto
+Email: admin@example.com
+pwd: Winter123$
