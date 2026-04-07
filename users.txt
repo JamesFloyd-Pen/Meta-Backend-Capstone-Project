@@ -2,3 +2,9 @@ Superuser
 name: Teto
 Email: admin@example.com
 pwd: Winter123$
+
+
+User
+email": "Pingu@example.com",
+username": "Pingu"
+pwd: Jimmy123$
