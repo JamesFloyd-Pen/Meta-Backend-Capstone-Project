@@ -6,6 +6,9 @@ class Booking(models.Model):
     name = models.CharField(max_length=255)
     No_of_guests = models.SmallIntegerField()
     Booking_date = models.DateField()
+    
+    def __str__(self):
+        return self.name
         
 
 class Menu(models.Model):
